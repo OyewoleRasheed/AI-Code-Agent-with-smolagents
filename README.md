@@ -1,6 +1,6 @@
 # 🎉 Alfred the Party Planner — AI Code Agent with `smolagents`
 
-This repository contains an AI agent — themed after **Alfred**, the iconic butler from Wayne Manor — who can help plan an epic party! Built using the [`smolagents`](https://github.com/smol-ai/smolagents) framework, this project demonstrates how to build a multi-step agent that reasons, generates code, uses tools, and executes dynamic solutions.
+This repository contains an AI agent — themed after **Alfred**, the iconic butler from Wayne Manor — who can help plan an epic party! Built using the [`smolagents`](https://github.com/huggingface/smolagents) framework, this project demonstrates how to build a multi-step agent that reasons, generates code, uses tools, and executes dynamic solutions.
 
 > 🦇 **Alfred** searches for music, suggests a menu, and calculates preparation time — making your party planning stress-free!
 
@@ -13,7 +13,7 @@ This repository contains an AI agent — themed after **Alfred**, the iconic but
 * 🕒 **Preparation Time Calculator** using Python code execution
 * 🛠️ Powered by:
 
-  * [smolagents](https://github.com/smol-ai/smolagents)
+  * [smolagents](https://github.com/huggingface/smolagents)
   * Hugging Face Inference API
   * Custom tools + dynamic code execution
 
